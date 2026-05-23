@@ -1,8 +1,8 @@
-# [PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery](https://arxiv.org/abs/2602.10576)
+PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery
 
 📄 [Paper](https://arxiv.org/abs/2602.10576)
 
-This repository presents the open-source resources associated with the paper **PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery**. We release the RL training framework to reproduce the results of the paper.
+This repository presents the open-source resources associated with the paper [**PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery**](https://arxiv.org/abs/2602.10576). We release the RL training framework to reproduce the results of the paper.
 
 ## 📰 News
 
