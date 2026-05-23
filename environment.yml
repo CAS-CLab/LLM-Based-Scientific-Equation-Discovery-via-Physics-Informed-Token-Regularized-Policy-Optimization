@@ -1,0 +1,21 @@
+name: pitpo
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - torch>=2.1.0
+    - transformers>=4.40.0
+    - datasets
+    - peft
+    - accelerate
+    - vllm>=0.4.0
+    - scipy
+    - numpy
+    - pandas
+    - joblib
+    - requests
+    - absl-py
+    - tensorboard
