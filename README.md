@@ -1,4 +1,4 @@
-PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery
+## PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery
 
 📄 [Paper](https://arxiv.org/abs/2602.10576)
 
