@@ -1,6 +1,15 @@
-# PiT-PO
+# [PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery](https://arxiv.org/abs/2602.10576)
 
-**Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery**
+📄 [Paper](https://arxiv.org/abs/2602.10576)
+
+This repository presents the open-source resources associated with the paper **PiT-PO: Physics-informed Token-regularized Policy Optimization for LLM-Based Scientific Equation Discovery**. We release the RL training framework to reproduce the results of the paper.
+
+## 📰 News
+
+- **[2026/05]** Our paper has been accepted by **KDD 2026 AI for Science Track**!
+- **[2026/02]** Our paper is now available on [arXiv](https://arxiv.org/abs/2602.10576)!
+
+## Overview
 
 PiT-PO turns a Large Language Model from a *static* equation proposer into an *adaptive* generator that is fine-tuned during the search itself. It combines:
 
